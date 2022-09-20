@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-^k=d-$y4hqw5)*q*is&(y*s*q*$n&uu+xyz(qmyy%6@1d3v+%b
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['skissele-django-app.herokuapp.com']
 
 
 # Application definition
